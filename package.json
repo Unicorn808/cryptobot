@@ -1,0 +1,14 @@
+{
+  "name": "coinbot",
+  "version": "1.0.0",
+  "description": "Discord CoinmarketCap Bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "Unicorn",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.2.1"
+  }
+}
